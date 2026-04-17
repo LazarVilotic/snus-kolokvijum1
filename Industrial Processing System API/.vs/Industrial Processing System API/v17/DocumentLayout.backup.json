@@ -3,24 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\klonirani\\snus-kolokvijum1\\Industrial Processing System API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9D1FBF9B-2CB1-4BD8-8C32-E33125B64053}|Industrial Processing System API\\Industrial Processing System API.csproj|c:\\users\\user\\desktop\\klonirani\\snus-kolokvijum1\\industrial processing system api\\industrial processing system api\\models\\jobtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D1FBF9B-2CB1-4BD8-8C32-E33125B64053}|Industrial Processing System API\\Industrial Processing System API.csproj|solutionrelative:industrial processing system api\\models\\jobtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D1FBF9B-2CB1-4BD8-8C32-E33125B64053}|Industrial Processing System API\\Industrial Processing System API.csproj|c:\\users\\user\\desktop\\klonirani\\snus-kolokvijum1\\industrial processing system api\\industrial processing system api\\models\\jobprioritycomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D1FBF9B-2CB1-4BD8-8C32-E33125B64053}|Industrial Processing System API\\Industrial Processing System API.csproj|solutionrelative:industrial processing system api\\models\\jobprioritycomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9D1FBF9B-2CB1-4BD8-8C32-E33125B64053}|Industrial Processing System API\\Industrial Processing System API.csproj|c:\\users\\user\\desktop\\klonirani\\snus-kolokvijum1\\industrial processing system api\\industrial processing system api\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D1FBF9B-2CB1-4BD8-8C32-E33125B64053}|Industrial Processing System API\\Industrial Processing System API.csproj|solutionrelative:industrial processing system api\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9D1FBF9B-2CB1-4BD8-8C32-E33125B64053}|Industrial Processing System API\\Industrial Processing System API.csproj|c:\\users\\user\\desktop\\klonirani\\snus-kolokvijum1\\industrial processing system api\\industrial processing system api\\models\\jobhandle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D1FBF9B-2CB1-4BD8-8C32-E33125B64053}|Industrial Processing System API\\Industrial Processing System API.csproj|solutionrelative:industrial processing system api\\models\\jobhandle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D1FBF9B-2CB1-4BD8-8C32-E33125B64053}|Industrial Processing System API\\Industrial Processing System API.csproj|c:\\users\\user\\desktop\\klonirani\\snus-kolokvijum1\\industrial processing system api\\industrial processing system api\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D1FBF9B-2CB1-4BD8-8C32-E33125B64053}|Industrial Processing System API\\Industrial Processing System API.csproj|solutionrelative:industrial processing system api\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9D1FBF9B-2CB1-4BD8-8C32-E33125B64053}|Industrial Processing System API\\Industrial Processing System API.csproj|c:\\users\\user\\desktop\\klonirani\\snus-kolokvijum1\\industrial processing system api\\industrial processing system api\\models\\jobtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D1FBF9B-2CB1-4BD8-8C32-E33125B64053}|Industrial Processing System API\\Industrial Processing System API.csproj|solutionrelative:industrial processing system api\\models\\jobtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D1FBF9B-2CB1-4BD8-8C32-E33125B64053}|Industrial Processing System API\\Industrial Processing System API.csproj|c:\\users\\user\\desktop\\klonirani\\snus-kolokvijum1\\industrial processing system api\\industrial processing system api\\utils\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D1FBF9B-2CB1-4BD8-8C32-E33125B64053}|Industrial Processing System API\\Industrial Processing System API.csproj|solutionrelative:industrial processing system api\\utils\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D1FBF9B-2CB1-4BD8-8C32-E33125B64053}|Industrial Processing System API\\Industrial Processing System API.csproj|c:\\users\\user\\desktop\\klonirani\\snus-kolokvijum1\\industrial processing system api\\industrial processing system api\\utils\\systemconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D1FBF9B-2CB1-4BD8-8C32-E33125B64053}|Industrial Processing System API\\Industrial Processing System API.csproj|solutionrelative:industrial processing system api\\utils\\systemconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D1FBF9B-2CB1-4BD8-8C32-E33125B64053}|Industrial Processing System API\\Industrial Processing System API.csproj|c:\\users\\user\\desktop\\klonirani\\snus-kolokvijum1\\industrial processing system api\\industrial processing system api\\utils\\xmlloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D1FBF9B-2CB1-4BD8-8C32-E33125B64053}|Industrial Processing System API\\Industrial Processing System API.csproj|solutionrelative:industrial processing system api\\utils\\xmlloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9D1FBF9B-2CB1-4BD8-8C32-E33125B64053}|Industrial Processing System API\\Industrial Processing System API.csproj|c:\\users\\user\\desktop\\klonirani\\snus-kolokvijum1\\industrial processing system api\\industrial processing system api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D1FBF9B-2CB1-4BD8-8C32-E33125B64053}|Industrial Processing System API\\Industrial Processing System API.csproj|solutionrelative:industrial processing system api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D1FBF9B-2CB1-4BD8-8C32-E33125B64053}|Industrial Processing System API\\Industrial Processing System API.csproj|c:\\users\\user\\desktop\\klonirani\\snus-kolokvijum1\\industrial processing system api\\industrial processing system api\\system\\processingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D1FBF9B-2CB1-4BD8-8C32-E33125B64053}|Industrial Processing System API\\Industrial Processing System API.csproj|solutionrelative:industrial processing system api\\system\\processingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,69 +42,108 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "JobType.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\klonirani\\snus-kolokvijum1\\Industrial Processing System API\\Industrial Processing System API\\Models\\JobType.cs",
               "RelativeDocumentMoniker": "Industrial Processing System API\\Models\\JobType.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\klonirani\\snus-kolokvijum1\\Industrial Processing System API\\Industrial Processing System API\\Models\\JobType.cs",
               "RelativeToolTip": "Industrial Processing System API\\Models\\JobType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-15T12:25:26.498Z",
+              "WhenOpened": "2026-04-17T07:45:08.326Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "JobPriorityComparer.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\klonirani\\snus-kolokvijum1\\Industrial Processing System API\\Industrial Processing System API\\Models\\JobPriorityComparer.cs",
-              "RelativeDocumentMoniker": "Industrial Processing System API\\Models\\JobPriorityComparer.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\klonirani\\snus-kolokvijum1\\Industrial Processing System API\\Industrial Processing System API\\Models\\JobPriorityComparer.cs",
-              "RelativeToolTip": "Industrial Processing System API\\Models\\JobPriorityComparer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-15T12:24:01.643Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "JobHandle.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\klonirani\\snus-kolokvijum1\\Industrial Processing System API\\Industrial Processing System API\\Models\\JobHandle.cs",
               "RelativeDocumentMoniker": "Industrial Processing System API\\Models\\JobHandle.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\klonirani\\snus-kolokvijum1\\Industrial Processing System API\\Industrial Processing System API\\Models\\JobHandle.cs",
               "RelativeToolTip": "Industrial Processing System API\\Models\\JobHandle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-15T12:21:46.702Z",
+              "WhenOpened": "2026-04-17T07:45:03.873Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Job.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\klonirani\\snus-kolokvijum1\\Industrial Processing System API\\Industrial Processing System API\\Models\\Job.cs",
               "RelativeDocumentMoniker": "Industrial Processing System API\\Models\\Job.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\klonirani\\snus-kolokvijum1\\Industrial Processing System API\\Industrial Processing System API\\Models\\Job.cs",
               "RelativeToolTip": "Industrial Processing System API\\Models\\Job.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAA0wEUAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-15T12:18:06.768Z",
+              "WhenOpened": "2026-04-17T07:44:59.788Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "SystemConfig.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\klonirani\\snus-kolokvijum1\\Industrial Processing System API\\Industrial Processing System API\\Utils\\SystemConfig.cs",
+              "RelativeDocumentMoniker": "Industrial Processing System API\\Utils\\SystemConfig.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\klonirani\\snus-kolokvijum1\\Industrial Processing System API\\Industrial Processing System API\\Utils\\SystemConfig.cs",
+              "RelativeToolTip": "Industrial Processing System API\\Utils\\SystemConfig.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T13:52:50.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\klonirani\\snus-kolokvijum1\\Industrial Processing System API\\Industrial Processing System API\\Utils\\Logger.cs",
+              "RelativeDocumentMoniker": "Industrial Processing System API\\Utils\\Logger.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\klonirani\\snus-kolokvijum1\\Industrial Processing System API\\Industrial Processing System API\\Utils\\Logger.cs",
+              "RelativeToolTip": "Industrial Processing System API\\Utils\\Logger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T13:38:50.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "XmlLoader.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\klonirani\\snus-kolokvijum1\\Industrial Processing System API\\Industrial Processing System API\\Utils\\XmlLoader.cs",
+              "RelativeDocumentMoniker": "Industrial Processing System API\\Utils\\XmlLoader.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\klonirani\\snus-kolokvijum1\\Industrial Processing System API\\Industrial Processing System API\\Utils\\XmlLoader.cs",
+              "RelativeToolTip": "Industrial Processing System API\\Utils\\XmlLoader.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T13:38:41.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProcessingSystem.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\klonirani\\snus-kolokvijum1\\Industrial Processing System API\\Industrial Processing System API\\System\\ProcessingSystem.cs",
+              "RelativeDocumentMoniker": "Industrial Processing System API\\System\\ProcessingSystem.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\klonirani\\snus-kolokvijum1\\Industrial Processing System API\\Industrial Processing System API\\System\\ProcessingSystem.cs",
+              "RelativeToolTip": "Industrial Processing System API\\System\\ProcessingSystem.cs",
+              "ViewState": "AgIAAA4BAAAAAAAAAAAkwCUBAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T13:38:07.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\klonirani\\snus-kolokvijum1\\Industrial Processing System API\\Industrial Processing System API\\Program.cs",
               "RelativeDocumentMoniker": "Industrial Processing System API\\Program.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\klonirani\\snus-kolokvijum1\\Industrial Processing System API\\Industrial Processing System API\\Program.cs",
               "RelativeToolTip": "Industrial Processing System API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAQwDUAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-15T12:15:10.297Z",
               "EditorCaption": ""
